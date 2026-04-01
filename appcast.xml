@@ -6,15 +6,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.9.0</title>
-            <pubDate>Wed, 01 Apr 2026 10:36:23 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <title>Version 2.0.0</title>
+            <pubDate>Wed, 01 Apr 2026 10:38:50 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/DemoskopAB/demoskop-clipboard-releases/releases/download/v0.9.0/DemoskopClipboard-0.9.0.dmg"
-                sparkle:edSignature="NuJYAhjQ42PjrgCQ5Q0BPuLZgLsPNZeFejF/1wAf5PJ+3mhRfVDpEGLD6UHaVgfvuPeyvT8NnNdiyF6MGZSgDw=="
-                length="1648836"
+                url="https://github.com/DemoskopAB/demoskop-clipboard-releases/releases/download/v2.0.0/DemoskopClipboard-2.0.0.dmg"
+                sparkle:edSignature="DzN1m7nZ03zhZCkZkbfsYS2ey7gM2tiLnVHuiCrvaEHgXNIQ+qSYWpUsyfnkedmBEL50R0XXilJAOtoswYS9BQ=="
+                length="1648830"
                 type="application/octet-stream"/>
         </item>
     </channel>
